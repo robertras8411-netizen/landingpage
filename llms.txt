@@ -1,0 +1,13 @@
+# CercaDeTi DELIVERY
+
+> Tu bienestar llega a casa. Servicio de entrega a domicilio de medicamentos, compras de mercado, almuerzos caseros y encargos personales con trato cálido y seguro.
+
+## Servicios principales
+- **Farmacia y salud:** Retiro de recetas médicas, medicamentos de uso diario e insumos de cuidado personal.
+- **Mercado y despensa:** Selección de frutas, verduras y abarrotes frescos.
+- **Almuerzos caseros:** Comidas balanceadas y recién preparadas de restaurantes locales.
+- **Encargos personales:** Envío de documentos, paquetes pequeños o compras específicas.
+
+## Contacto y enlaces
+- Sitio web: https://robertras8411-netizen.github.io/landingpage/
+- WhatsApp: +593 99 622 312
